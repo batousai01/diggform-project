@@ -1,3 +1,715 @@
-div {
-    font-size: xx-small;
+.mediaViewInfo {
+	--web-view-name: Digg - Apply Form;
+	--web-view-id: Digg_-_Apply_Form;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
 }
+:root {
+	--web-view-ids: Digg_-_Apply_Form;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Digg_-_Apply_Form {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Digg - Apply Form;
+	--web-view-id: Digg_-_Apply_Form;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Path_969_p {
+	fill: url(#Path_969_p);
+}
+.Path_969_p {
+	overflow: visible;
+	position: absolute;
+	width: 960px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_11 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 1080px;
+	left: 960px;
+	top: 0px;
+}
+#digg {
+	left: 83px;
+	top: 63px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: IBM Plex Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 62px;
+	color: rgba(255,255,255,1);
+}
+#Group_147 {
+	position: absolute;
+	width: 827px;
+	height: 632.2px;
+	left: 1027px;
+	top: 221px;
+	overflow: visible;
+}
+#Apply_now_to_work_in_Dubai_ {
+	left: 114px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 579px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 46px;
+	color: rgba(20,18,18,1);
+}
+#Rectangle_12 {
+	fill: rgba(239,239,239,1);
+	stroke: rgba(75,51,225,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 72px;
+	left: 0px;
+	top: 116px;
+}
+#First_name {
+	left: 19px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -13px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(76,51,226,1);
+}
+#Rectangle_13 {
+	fill: rgba(239,239,239,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 72px;
+	left: 424px;
+	top: 116px;
+}
+#Last_name {
+	opacity: 0.87;
+	left: 443px;
+	top: 139px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Rectangle_15 {
+	fill: rgba(239,239,239,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 72px;
+	left: 0px;
+	top: 208px;
+}
+#Date_of_birth {
+	opacity: 0.87;
+	left: 19px;
+	top: 231px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Group_1 {
+	opacity: 0.87;
+	position: absolute;
+	width: 23.6px;
+	height: 23.6px;
+	left: 357.2px;
+	top: 232px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(20,18,18,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 23.6px;
+	height: 23.6px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(20,18,18,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 16.225px;
+	height: 11.8px;
+	left: 3.688px;
+	top: 7.375px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_146 {
+	position: absolute;
+	width: 214px;
+	height: 61px;
+	left: 424px;
+	top: 213px;
+	overflow: visible;
+}
+#Group_145 {
+	position: absolute;
+	width: 214px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gender {
+	opacity: 0.87;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Rectangle_20_ {
+	fill: url(#Rectangle_20_);
+}
+.Rectangle_20_ {
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	height: 26px;
+	left: 0px;
+	top: 35px;
+}
+#Male {
+	opacity: 0.87;
+	left: 37px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Group_4 {
+	position: absolute;
+	width: 91px;
+	height: 26px;
+	left: 123px;
+	top: 35px;
+	overflow: visible;
+}
+#Rectangle_20_ba {
+	fill: rgba(239,239,239,1);
+}
+.Rectangle_20_ba {
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	height: 26px;
+	left: 0px;
+	top: 0px;
+}
+#Female {
+	opacity: 0.87;
+	left: 37px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Path_4 {
+	fill: rgba(255,255,255,1);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 11.501px;
+	height: 8.002px;
+	left: 7px;
+	top: 44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7 {
+	position: absolute;
+	width: 403px;
+	height: 72px;
+	left: 0px;
+	top: 300px;
+	overflow: visible;
+}
+#Rectangle_21 {
+	fill: rgba(239,239,239,1);
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Nationality {
+	opacity: 0.87;
+	left: 19px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Path_5 {
+	opacity: 0.87;
+	fill: rgba(20,18,18,1);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 24.044px;
+	height: 12.612px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,349.4781,29.9771) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_8 {
+	position: absolute;
+	width: 403px;
+	height: 72px;
+	left: 424px;
+	top: 300px;
+	overflow: visible;
+}
+#Rectangle_21_bi {
+	fill: rgba(239,239,239,1);
+}
+.Rectangle_21_bi {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Country_of_residence {
+	opacity: 0.87;
+	left: 19px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Polygon_1 {
+	opacity: 0.87;
+	fill: rgba(20,18,18,1);
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 13px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,348,30) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#How_we_can_contact_you {
+	left: 0px;
+	top: 389px;
+	position: absolute;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(20,18,18,1);
+}
+#Rectangle_22 {
+	fill: rgba(239,239,239,1);
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 72px;
+	left: 0px;
+	top: 445px;
+}
+#Contact_number {
+	opacity: 0.87;
+	left: 19px;
+	top: 468px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Rectangle_23 {
+	fill: rgba(239,239,239,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 72px;
+	left: 424px;
+	top: 445px;
+}
+#Email_address {
+	opacity: 0.87;
+	left: 443px;
+	top: 468px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Path_6_br {
+	fill: url(#Path_6_br);
+}
+.Path_6_br {
+	overflow: visible;
+	position: absolute;
+	width: 269.8px;
+	height: 75.2px;
+	left: 557px;
+	top: 557px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Apply_now {
+	left: 634px;
+	top: 578px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#John_Doe {
+	left: 19px;
+	top: 145px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(20,18,18,1);
+}
+#Path_968 {
+	fill: rgba(255,255,255,1);
+}
+.Path_968 {
+	overflow: visible;
+	position: absolute;
+	width: 480px;
+	height: 446.805px;
+	left: 83px;
+	top: 279.595px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#man {
+	position: absolute;
+	width: 480px;
+	height: 446.805px;
+	left: 83px;
+	top: 279.595px;
+	overflow: visible;
+}
+#Untitled-3 {
+	position: absolute;
+	width: 348px;
+	height: 355px;
+	left: 166px;
+	top: 228px;
+	overflow: visible;
+}
+#Rectangle_96_by {
+	fill: url(#Rectangle_96_by);
+}
+.Rectangle_96_by {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Coming_to_Dubai_with_One_Step_ {
+	left: 83px;
+	top: 757px;
+	position: absolute;
+	overflow: visible;
+	width: 745px;
+	height: 116px;
+	line-height: 41px;
+	margin-top: -10.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Mohammed_One_Step_Dubai_studen {
+	left: 83px;
+	top: 903px;
+	position: absolute;
+	overflow: visible;
+	width: 363px;
+	white-space: nowrap;
+	line-height: 41px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Sora;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#Path_970_b {
+	fill: url(#Path_970_b);
+}
+.Path_970_b {
+	overflow: visible;
+	position: absolute;
+	width: 337.765px;
+	height: 420.8px;
+	transform: matrix(1,0,0,1,594.3327,-267.8277) rotate(-62deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_971_b {
+	fill: url(#Path_971_b);
+}
+.Path_971_b {
+	overflow: visible;
+	position: absolute;
+	width: 382.758px;
+	height: 303.082px;
+	transform: matrix(1,0,0,1,572.2423,1034.9183) rotate(14deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+
+#form-title {
+	font-family: Sora;
+	font-weight: normal;
+	font-size: 46px;
+	line-height: 41px;
+	text-align: center;
+	color: #141212;
+	border: 1px solid rgba(0, 0, 0, 0);
+	padding-bottom: 54px;
+
+}
+
+.form-title-two {
+	font-family: Sora;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 41px;
+	text-align: left;
+	color: #141212;
+	border: 1px solid rgba(0, 0, 0, 0);
+
+}
+
+#male, #female {
+	width: 26px;
+	height: 26px;
+	border-radius: 3px;
+
+}
+
+.formbox {
+	width: 403px;
+	height: 72px;
+	background: #efefef;
+	margin: 0px 6px 22px 0px;
+	font-family: Sora;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 41px;
+	text-align: left;
+	color: #141212;
+	border: 1px solid rgba(0, 0, 0, 0);
+	opacity: 0.87;
+	padding-left: 19px;
+	outline-color:#4734e1;
+
+	
+}
+.gender {
+	font-family: Sora;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 41px;
+	text-align: left;
+	color: #141212;
+	border: 1px solid rgba(0, 0, 0, 0);
+	opacity: 0.87;
+}
+
+label { 
+	color: ;
+}
+
+#submit {
+	width: 269.8px;
+	height: 75.2px;
+	background: linear-gradient(#4734e1 0%, #8e27ea 100%);
+	border: 0;
+	font-family: Sora;
+	font-weight: 300;
+	font-size: 22px;
+	line-height: 41px;
+	color: #fff;
+	border: 1px solid rgba(0, 0, 0, 0);
+	margin-top: 40px;
+	margin-left: 545px;
+	border: none;
+    border-radius: 50px;
+	text-decoration: none;
+
+
+
+}
+
